@@ -1,0 +1,4 @@
+repository "2dgigachadmlagents@r4mbhardwaj@cloud"
+  path "/"
+    br "/main"
+    co "/main"
